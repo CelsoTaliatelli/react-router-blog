@@ -1,6 +1,6 @@
 const SobreMim = () => {
     return(
-        <h1>Sobre mim</h1>
+            <h1>Sobre Mim</h1>
     );
 }
 
